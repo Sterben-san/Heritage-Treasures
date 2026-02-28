@@ -1,1 +1,1 @@
-contains video in Mp4 format
+contains link to youtube video
